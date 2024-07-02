@@ -60,7 +60,7 @@ box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 border-radius: 10px;
 padding-top: 30px;
 margin-top: 30px;
-background-image: url(../images/Concretewall.jpg);
+background-image: url(/pmd_onboarding/images/Concretewall.jpg);
 background-size: cover;
 background-color: rgba(255, 255, 255, 0.5);
 background-blend-mode:lighten;
